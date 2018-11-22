@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 
- > Research Statistical Analys at Inbox \hfill July 2018--August 2018
+ > Research Statistical Analyst at Inbox \hfill July 2018--August 2018
  
  * Studying the customer base of an important mobile phone operator in South Africa: The market share, new activations , churners , clients behaviour
  * Developing a Shiny dashboard to assure a reactive visualisation giving a simpliﬁed vision about the statistical study of the customer base 
