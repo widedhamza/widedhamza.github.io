@@ -1,0 +1,13 @@
+---
+title: "About me"
+---
+What can speak better than a photo
+
+##  That's my school the Higher School of Statistics and Information Analysis (ESSAIT) 
+
+<img src="images/essai.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
+
+
+## Hiking 
+
+<img src="images/essai.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">

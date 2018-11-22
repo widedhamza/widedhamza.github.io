@@ -1,0 +1,32 @@
+name: "Wided Hamza"                                 
+output_dir: "."
+navbar:
+  title: "Wided Hamza"                             
+  type: inverse
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "About"
+      icon: fa-user 
+      href: about.html
+    - text: "CV"
+      icon: fa-file-pdf-o
+      href: cv.html
+    - text: "Projects"
+      icon: fa-briefcase
+      href: https://widedhamza.github.io/  
+  right:
+    - text: "Contact me"
+      icon: fa-envelope-o
+      href: mailto:widedhamza2@gmail.com
+    - text: "LinkedIn"
+      icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/wided-hamza/
+    - text: "GitHub"
+      icon: fa-github
+      href: https://github.com/widedhamza      # CHANGE HERE 
+output:
+  html_document:
+    theme: yeti 
+    highlight: textmate

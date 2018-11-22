@@ -1,0 +1,57 @@
+---
+title: "CV"
+---
+
+<a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+	
+
+# EDUCATION
+
+
+*Higher School of Statistics and Information Analysis (ESSAIT)*, Statistical Engineering and Information Analysis \hfill 2016--2019
+
+*Preparatory Institute for Engineering Studies El Manar (IPEIEM)*,Preparatory Cycle Math-Physics \hfill 2013--2016
+
+
+# WORK EXPERIENCE
+
+
+
+ > Research Statistical Analys at Inbox \hfill July 2018--August 2018
+ 
+ * Studying the customer base of an important mobile phone operator in South Africa: The market share, new activations , churners , clients behaviour
+ * Developing a Shiny dashboard to assure a reactive visualisation giving a simpliﬁed vision about the statistical study of the customer base 
+*Using shiny modules and R to automate the KPI's calculation and the reporting,specially to eliminate the redundancy
+
+ > Management Controller at COMAR \hfill July 2017--August 2017
+
+* Performinging descriptive statistics of major losses
+* Comparing unmatured premiums and calculation of rates Proﬁling of the clients
+* Logistic regression and scoring
+* Dashboarding
+
+# PROJECTS
+
+**2018**:*Survey on Youth and mobile phone using R*
+Realinsing a questionnaire where the main observation is how many mobile phones had a youth owned the past three years Realising a descriptive statistics of the generated database and applying diﬀerent types of surveys by sampling , estimating and redressing
+
+**2017** : *Text classiﬁcation using TensorFlow*  Studying text classiﬁcation algorithms documentations Implementing the bag of words model to represent texts and apply it on DBpedia
+
+**2017**: *Java desktop application for hotel management* 
+
+**2017**: *Geo-static tool for evaluating the QoS 2G / 3G mobile radio networks in Tunisia using R and HTML*Collecting the key performance indicators (KPIs) for mobile services in the Tunisia's governorates and representing them
+
+**2016** : *Principal component analysis with R* 
+
+
+
+# ACHIEVEMENTS
+
+>Delegate of the students of the Higher School of Statistics and Information Analysis \hfill 2016 –- 2018
+
+>Head of communications at Radio Club of the higher school of statistics and information analysis \hfill 2016 –- 2017
+
+

@@ -1,0 +1,13 @@
+---
+title: "Welcome to my website!"
+---
+<img src="images/wided.jpg" style="width:35%; border:1px solid; margin-right: 20px" align="left">
+
+Hello , I'm Wided Hamza, I'm a 24 years old student in statistics and Data Science at [University of Carthage](http://www.ucar.rnu.tn/En/). I'm studying at the [*Ecole Supérieure de la Statistique et de l'Analyse de l'Information*](http://www.essai.rnu.tn/accueil.htm)  several data science courses: Big Data, Computing tools for Statistics such as `R` and Python, Bayesian Statistics,Time Series and Data mining.
+
+I like using a lot `R`   for  Data Analysis and Exploring patterns. `H2O` and `Spark` are  my preferred softwares dor machine and deep learning to perform big  data analysis. Alsoo I like using `RShiny` for interactive dashboarding.
+
+You will find in this website my cureelium vtae as some of my works. 
+
+
+If you have any comments, questions or suggestions feel free to [contact me](mailto:widedhamza2@gmail.com) 
