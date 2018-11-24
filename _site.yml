@@ -25,7 +25,7 @@ navbar:
       href: https://www.linkedin.com/in/wided-hamza/
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/widedhamza      # CHANGE HERE 
+      href: https://github.com/widedhamza      
 output:
   html_document:
     theme: flatly 

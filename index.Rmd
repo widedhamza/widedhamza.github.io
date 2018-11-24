@@ -4,12 +4,12 @@ title: "Welcome to my website!"
 <img src="images/wided.jpg" style="width:35%; border:1px solid; margin-right: 20px" align="left">
 
 Hello , I'm Wided Hamza, I'm a 24 years old student in statistics and Data Science at [University of Carthage](http://www.ucar.rnu.tn/En/). I'm studying at the [*Ecole Supérieure de la Statistique et de l'Analyse de l'Information*](http://www.essai.rnu.tn/accueil.htm)  several data science courses: Big Data, Computing tools for Statistics such as `R` and Python, Bayesian Statistics,Time Series and Data mining.
-While completing my years of studies I worked as Data analyst intern for two months for Inbox Tunisia. My responsibilities in this role included providing innovative solutions for data visualization and Key performance indicators calculation. This position has given me key employability skills while also allowing me to experience working in a professional and fast-paced work environment. I was also a Management Controller Intern in one of the best insurances of Tunisia where I learned precision and profiling of clients.  
-My teachers and employers have commended me for my high level of interpersonal skills and naturally engaging personality. My motivations include learning new things and the challenge of meeting key objectives. 
+While completing my years of studies I worked as Data analyst intern for two months for [Inbox Tunisia ](https://inbox.fr/). My responsibilities in this role included providing innovative solutions for data visualization and Key performance indicators calculation. This position has given me key employability skills while also allowing me to experience working in a professional and fast-paced work environment. I was also a Management Controller Intern in one of the best insurances of Tunisia [COMAR](https://www.comar.tn/where) I learned precision and profiling clients.  
+I see myself as someone who is committed to my goals me with high level of interpersonal skills and the challenge of meeting key objectives. My motivations include learning new things and the challenge of meeting key objectives. 
 
 I like using a lot `R`   for  Data Analysis. And I'm looking forward to brighten my career in using `H2O` and `Spark` softwares dor machine and deep learning to perform big  data analysis.Also I like investing data science in marketing and health research.
+I also like self development books, sports and karaoke. , I'm fond of interesting conversations with interesting people. 
 
-You will find in this website my currelium vitae as some of my works. 
-
+You will find in this website my CV and  some of my works with R and Python 
 
 If you have any comments, questions or suggestions feel free to [contact me](mailto:widedhamza2@gmail.com) 
