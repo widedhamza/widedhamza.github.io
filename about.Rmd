@@ -8,6 +8,6 @@ What can speak better than a photo
 <img src="images/essai.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
 
 
-## Hiking 
+## Inspiration 
 
-<img src="images/essai.jpg" style="width:100%; border:1px solid; margin-right: 20px" align="left">
+<img src="images/inspiration.jpg" style="width:40%; border:1px solid;display: block; margin-left: auto ; margin-right:auto" align="center">
